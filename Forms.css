@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+form{
+    text-align:justify;
+    background-color: antiquewhite;
+    color: blue;
+}
+.button{
+    background-color: coral;
+    color: black;
+}
